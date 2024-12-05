@@ -1,2 +1,2 @@
 # NeyineGambling
-Gambling site gui
+Gambling site gui.
